@@ -1,0 +1,5 @@
+,Age,Age,Age,Age,Annual Income (k$),Annual Income (k$),Annual Income (k$),Annual Income (k$),Spending Score (1-100),Spending Score (1-100),Spending Score (1-100),Spending Score (1-100)
+,mean,std,min,max,mean,std,min,max,mean,std,min,max
+Cluster,,,,,,,,,,,,
+0,28.838,6.704,18,45,61.914,25.864,15,137,66.2,21.198,5,99
+1,49.916,11.298,19,70,59.063,26.758,15,137,32.516,17.68,1,60
